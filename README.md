@@ -14,8 +14,13 @@ pip3 install G5decode
 ```
 #### install for phone(pydroid) :
 ```bash
-pip install G5decode or Go to the icon pip in pydroid and after that type G5decode and after that click on pip
+pip install G5decode
 ```
+   #### or 
+   ```bash
+   or Go to the icon pip in pydroid and after that type G5decode and after that click on pip
+   ```
+
 
 ### ______________________________________________________________________
 
