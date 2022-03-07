@@ -1,7 +1,7 @@
 # G5decode
 
 ### to install :
-###_____________
+### _____________
 
 #### install for windows:
 ```bash
