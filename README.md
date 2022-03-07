@@ -18,7 +18,7 @@ pip install G5decode
 ```
    #### or 
    ```bash
-   or Go to the icon pip in pydroid and after that type G5decode and after that click on pip
+   Go to the icon pip in pydroid and after that type G5decode and after that click on pip
    ```
 
 
